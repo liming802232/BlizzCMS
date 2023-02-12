@@ -5,6 +5,8 @@
 
 ## About BlizzCMS
 
+Read in: [English :gb:](README.md) | [Chinese :zh:](README_zh.md)
+
 BlizzCMS is a free, easy-to-use, open-source CMS developed for private World of Warcraft communities that contains several features between them:
 
 - Login
