@@ -5,14 +5,14 @@
 
 ## 关于 BlizzCMS
 
-Read in: [English :gb:](README.md) | [Chinese :zh:](README_zh.md)
+Read in: [英文 :gb:](README.md) | [中文 :zh:](README_zh.md)
 
 BlizzCMS是一款免费、易用、开源的CMS，专为私人魔兽世界社区开发，包含以下几个功能：
 
 - 登录
 - 注册
 - 新闻
-- 自定义页面和更多...
+- 自定义页面和更多......
 
 ## 要求
 
